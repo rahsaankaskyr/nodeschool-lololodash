@@ -1,8 +1,8 @@
-Lo-Dash Javascript Exercises
 
-# browserify-adventure
+# lololodash
 
 A nodeschool.io workshop that teaches 
+A Set of NodeSchool-Style, Workshopper-powered, Lo-Dash Javascript Exercises
 
 ## Install and Start
 
